@@ -10,3 +10,4 @@ Edit <strong> Helproom and Gateway Scheduling - Template.xlsx</strong>:<br>
 Edit and post <strong>Lab Syllabus Templelate:</strong><br>
 <ul><li>Fill in the unerscored area with your name, email, classroom, class hours, section number, office number, office hours, something about yourself, additional policies. Replace the x in 12x by 5 or 6 or 7. </li>
 <li>KU employees have subscription to work with MS. Doc so save the file and upload to the designated area on Canvas. Copy and paste also works.</li></ul>
+Use the <strong>KU Math Department GTA Observation</strong> to write up peer observation before being observed in classroom.
