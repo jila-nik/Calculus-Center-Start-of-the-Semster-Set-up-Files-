@@ -1,4 +1,4 @@
-# Calculus-Center-Start-of-the-Semster-Set-up-Files-
+# Calculus-Center-Start-of-the-Semster-Set-up-Files
 <strong>Calculus Center Start of the Semester Files</strong><br>
 <strong>Coordinator in charge of helproom scheduling:</strong><br>
 Edit <strong> Helproom and Gateway Scheduling - Template.xlsx</strong>:<br>
