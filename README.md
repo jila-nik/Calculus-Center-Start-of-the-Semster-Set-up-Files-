@@ -5,7 +5,7 @@ Edit <strong> Helproom and Gateway Scheduling - Template.xlsx</strong>:<br>
 <ul><li>Enter names of graduate students in each course in column B to replace each Friend.</li>
 <li>Enter the designated hours for each friend. 0 for enhanced instructors, 3 for instructors of two sections and 5 for instrutors of one section</li>
 <li>Update the gateway dates and classroom attendance schedule.</li>
-<li>Share with all graduate students friends involved with calculus center. (We usually share it on Calculus center Teams.)</li></ul>
+<li>Share with all graduate student friends involved with calculus center. (We usually share it on Calculus center Teams.)</li></ul>
 <strong>GTAs:</strong><br> 
 Edit and post <strong>Lab Syllabus Templelate:</strong><br>
 <ul><li>Fill in the underscored area with your name, email, classroom, class hours, section number, office number, office hours, something about yourself, additional policies. Replace the x in 12x by 5 or 6 or 7. </li>
